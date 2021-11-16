@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\bin\Debug\net5.0\ExceptionUserRegistrationUc6.exe
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\bin\Debug\net5.0\ExceptionUserRegistrationUc6.deps.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\bin\Debug\net5.0\ExceptionUserRegistrationUc6.runtimeconfig.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\bin\Debug\net5.0\ExceptionUserRegistrationUc6.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\bin\Debug\net5.0\ExceptionUserRegistrationUc6.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\bin\Debug\net5.0\ref\ExceptionUserRegistrationUc6.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\bin\Debug\net5.0\ExceptionUserRegistrationUc6.pdb
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ExceptionUserRegistrationUc6.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ExceptionUserRegistrationUc6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ExceptionUserRegistrationUc6.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ExceptionUserRegistrationUc6.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ExceptionUserRegistrationUc6.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ExceptionUserRegistrationUc6.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ref\ExceptionUserRegistrationUc6.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ExceptionUserRegistrationUc6.pdb
+C:\Users\Vishal\source\repos\ExceptionUserRegistrationUc6\ExceptionUserRegistrationUc6\obj\Debug\net5.0\ExceptionUserRegistrationUc6.genruntimeconfig.cache
