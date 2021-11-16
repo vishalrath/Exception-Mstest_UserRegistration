@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\bin\Debug\net5.0\ExceptionUserRegistrastionUc7.exe
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\bin\Debug\net5.0\ExceptionUserRegistrastionUc7.deps.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\bin\Debug\net5.0\ExceptionUserRegistrastionUc7.runtimeconfig.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\bin\Debug\net5.0\ExceptionUserRegistrastionUc7.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\bin\Debug\net5.0\ExceptionUserRegistrastionUc7.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\bin\Debug\net5.0\ref\ExceptionUserRegistrastionUc7.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\bin\Debug\net5.0\ExceptionUserRegistrastionUc7.pdb
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ExceptionUserRegistrastionUc7.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ExceptionUserRegistrastionUc7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ExceptionUserRegistrastionUc7.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ExceptionUserRegistrastionUc7.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ExceptionUserRegistrastionUc7.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ExceptionUserRegistrastionUc7.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ref\ExceptionUserRegistrastionUc7.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ExceptionUserRegistrastionUc7.pdb
+C:\Users\Vishal\source\repos\ExceptionUserRegistrastionUc7\ExceptionUserRegistrastionUc7\obj\Debug\net5.0\ExceptionUserRegistrastionUc7.genruntimeconfig.cache
