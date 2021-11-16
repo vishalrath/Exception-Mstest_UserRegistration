@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\bin\Debug\net5.0\ExceptionUserRegistration.exe
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\bin\Debug\net5.0\ExceptionUserRegistration.deps.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\bin\Debug\net5.0\ExceptionUserRegistration.runtimeconfig.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\bin\Debug\net5.0\ExceptionUserRegistration.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\bin\Debug\net5.0\ExceptionUserRegistration.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\bin\Debug\net5.0\ref\ExceptionUserRegistration.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\bin\Debug\net5.0\ExceptionUserRegistration.pdb
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ExceptionUserRegistration.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ExceptionUserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ExceptionUserRegistration.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ExceptionUserRegistration.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ExceptionUserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ExceptionUserRegistration.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ref\ExceptionUserRegistration.dll
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ExceptionUserRegistration.pdb
+C:\Users\Vishal\source\repos\ExceptionUserRegistration\ExceptionUserRegistration\obj\Debug\net5.0\ExceptionUserRegistration.genruntimeconfig.cache
