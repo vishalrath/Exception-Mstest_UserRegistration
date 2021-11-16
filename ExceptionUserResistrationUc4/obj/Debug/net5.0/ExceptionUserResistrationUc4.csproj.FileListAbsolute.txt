@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\bin\Debug\net5.0\ExceptionUserResistrationUc4.exe
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\bin\Debug\net5.0\ExceptionUserResistrationUc4.deps.json
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\bin\Debug\net5.0\ExceptionUserResistrationUc4.runtimeconfig.json
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\bin\Debug\net5.0\ExceptionUserResistrationUc4.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\bin\Debug\net5.0\ExceptionUserResistrationUc4.dll
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\bin\Debug\net5.0\ref\ExceptionUserResistrationUc4.dll
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\bin\Debug\net5.0\ExceptionUserResistrationUc4.pdb
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ExceptionUserResistrationUc4.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ExceptionUserResistrationUc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ExceptionUserResistrationUc4.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ExceptionUserResistrationUc4.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ExceptionUserResistrationUc4.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ExceptionUserResistrationUc4.dll
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ref\ExceptionUserResistrationUc4.dll
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ExceptionUserResistrationUc4.pdb
+C:\Users\Vishal\source\repos\ExceptionUserResistrationUc4\ExceptionUserResistrationUc4\obj\Debug\net5.0\ExceptionUserResistrationUc4.genruntimeconfig.cache
