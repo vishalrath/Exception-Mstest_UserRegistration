@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc10_Using_LamdaFun_Exception_Mstesting_UserRegistration/1.0.0": {
+        "runtime": {
+          "Uc10_Using_LamdaFun_Exception_Mstesting_UserRegistration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc10_Using_LamdaFun_Exception_Mstesting_UserRegistration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc10_Using_LamdaFun_Exception_Mstesting_UserRegistration", "Uc10_Using_LamdaFun_Exception_Mstesting_UserRegistration\Uc10_Using_LamdaFun_Exception_Mstesting_UserRegistration.csproj", "{80E5B8C0-1909-44FE-9F4D-519F0B5FDCB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsTesting", "MsTesting\MsTesting.csproj", "{25C38592-12A2-4BA4-918D-56DCBEE2A626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E5B8C0-1909-44FE-9F4D-519F0B5FDCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E5B8C0-1909-44FE-9F4D-519F0B5FDCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E5B8C0-1909-44FE-9F4D-519F0B5FDCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E5B8C0-1909-44FE-9F4D-519F0B5FDCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C38592-12A2-4BA4-918D-56DCBEE2A626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C38592-12A2-4BA4-918D-56DCBEE2A626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C38592-12A2-4BA4-918D-56DCBEE2A626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C38592-12A2-4BA4-918D-56DCBEE2A626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ABC732E-6CE8-4BC8-9A77-24946ABD569C}
+	EndGlobalSection
+EndGlobal
